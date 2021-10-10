@@ -3,9 +3,11 @@
 ## EnLighten Data
 
 ### - Purpose
-EnLighten Data is aiming to aware the data privacy issue and the presence of urban tech to all citizens.
-It is citizen's trust that leads to successful smart city project. However, people nowadays still have little perception of 
+EnLighten Data is aiming to aware the data privacy issue and the presence of urban tech to all citizens. Just as the nutrition labels for food products, data collecting and uasage policies should be notified to users in an easy-to-read way rather the long and tedious words. By doing so, smart city projects should be build upon the public trust, leading to a more successful project execution.
 
+Particularly for the public wifi service, users tend to sign up for it without understanding their trade-offs, while others who care about their data privacy would backlash against other extended services even if these are out of good intentins.
+
+EnLighten Data will work as a visualization interface when people access to public wifi service and show what kind of data will be taken as well as the awareness of tradesoff.
 
 ### - Concept
 
