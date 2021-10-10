@@ -12,9 +12,9 @@ EnLighten Data will work as a visualization interface when people access to publ
 
 ### - Concept
 
-My initial idea is coming from the InLink UK. InLink UK has popped up on London's streets since 2017. It provides free wifi and free call, and is equipped with environmental sensors for sound, light, and temperature. However, the privacy concern continues to b
+My initial idea is coming from the InLink UK. InLink UK has popped up on London's streets since 2017. It provides free wifi, free call, and is equipped with environmental sensors for sound, light, and temperature. However, the privacy concern has never been subsided.
+News: https://www.wired.co.uk/article/linkuk-bt-google-free-wifi-and-calls-london
 
-https://www.wired.co.uk/article/linkuk-bt-google-free-wifi-and-calls-london
 
 <img src="https://user-images.githubusercontent.com/52306317/136707076-4234d827-b577-431d-b360-71af370d8bf1.png" alt="Cover" width="80%"/>
 
