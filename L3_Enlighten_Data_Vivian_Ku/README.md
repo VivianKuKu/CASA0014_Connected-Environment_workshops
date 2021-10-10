@@ -17,7 +17,7 @@ News: https://www.wired.co.uk/article/linkuk-bt-google-free-wifi-and-calls-londo
  
 My idea is that when people access to the InLink UK kiosk, they will be detected by the ultrasonic sensor and Arduino will show the icons of the kinds of data collected. For the scenario below, there are MAC and the personal image will be captured by the system. In the meanwhile, Arduino will count the usage time when people are still in there, lighting more EYES every 10 mins which is quite scaring. (But for the prototyping, I use 2 seconds as an interval.)
 
-Note: My inital idea is to visualize real-time wifi users, yet it's hard to connect to the live data for this stage.
+Note: My inital idea is to visualize real-time wifi users, yet it's hard to connect to the live data on this stage.
 
 
 <img src="https://user-images.githubusercontent.com/52306317/136707076-4234d827-b577-431d-b360-71af370d8bf1.png" alt="Cover" width="80%"/>
