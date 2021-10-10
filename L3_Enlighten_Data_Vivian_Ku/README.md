@@ -23,6 +23,7 @@ My idea is that when people access to the InLink UK kiosk, they will be detected
 
 ### - Prototype
 
+Arduino + Ultrasonic sensor + EYES + ICONS
 
 <img src="https://user-images.githubusercontent.com/52306317/136709107-1319185e-48e8-4dfc-bc4b-c51da7e18bc1.png" alt="Cover" width="35%"/>
 
