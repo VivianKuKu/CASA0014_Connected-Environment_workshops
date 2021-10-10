@@ -24,7 +24,7 @@ My idea is that when people access to the InLink UK kiosk, they will be detected
 ### - Prototype
 
 
-<img src="https://user-images.githubusercontent.com/52306317/136703156-981270d2-f52f-4378-b64c-6b81a3f9b039.jpg" alt="Cover" width="35%"/>
+<img src="https://user-images.githubusercontent.com/52306317/136709107-1319185e-48e8-4dfc-bc4b-c51da7e18bc1.png" alt="Cover" width="35%"/>
 
 <img src="https://user-images.githubusercontent.com/52306317/136703163-29e34314-5007-4322-89f0-f7c96eb24109.jpg" alt="Cover" width="35%"/>
 
