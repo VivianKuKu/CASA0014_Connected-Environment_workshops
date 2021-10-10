@@ -1,15 +1,15 @@
 ## L3_Hello Monster Crit
 
-### EnLighten Data
+## EnLighten Data
 
-#### - Purpose
+### - Purpose
 EnLighten Data is aiming to...
 
-#### - Concept
+### - Concept
 
 <img src="https://user-images.githubusercontent.com/52306317/136707076-4234d827-b577-431d-b360-71af370d8bf1.png" alt="Cover" width="80%"/>
 
-#### - Prototype
+### - Prototype
 
 
 <img src="https://user-images.githubusercontent.com/52306317/136703156-981270d2-f52f-4378-b64c-6b81a3f9b039.jpg" alt="Cover" width="35%"/>
