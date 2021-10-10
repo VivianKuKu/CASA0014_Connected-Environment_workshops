@@ -7,6 +7,7 @@ EnLighten Data is aiming to...
 
 #### - Concept
 
+<img src="https://user-images.githubusercontent.com/52306317/136706995-b4652787-2d11-40f9-ad4d-93df8ad0da3a.png" alt="Cover" width="80%"/>
 
 #### - Prototype
 <img src="https://user-images.githubusercontent.com/52306317/136703156-981270d2-f52f-4378-b64c-6b81a3f9b039.jpg" alt="Cover" width="35%"/>
