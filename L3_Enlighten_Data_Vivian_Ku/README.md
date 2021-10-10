@@ -3,7 +3,7 @@
 ## EnLighten Data
 
 ### - Purpose
-EnLighten Data is aiming to aware the data privacy issue and the presence of urban tech to all citizens. Just as the nutrition labels for food products, data collecting and uasage policies should be notified to users in an easy-to-read way rather the long and tedious words. By doing so, smart city projects could be build upon the public trust, leading to a more successful project execution.
+EnLighten Data is aiming to aware the data privacy issue and the presence of urban tech to all citizens. Just as the nutrition labels for food products, data collecting and usage policies should be notified to users in an easy-to-read way rather the long and tedious words. By doing so, smart city projects could be build upon the public trust, leading to a more successful project execution.
 
 Particularly for the public wifi service, users tend to sign up for it without understanding their trade-offs, while others who care about their data privacy would backlash against other extended services even if these are out of good intentins.
 
@@ -15,7 +15,7 @@ News: https://www.wired.co.uk/article/linkuk-bt-google-free-wifi-and-calls-londo
 
 ### - Concept
  
-My idea is that when people access to the InLink UK kiosk, they will be detected by the ultrasonic sensor and Arduino will show the icons of the kinds of data collected. For the scenario below, there are MAC and the personal image will be captured by the system. In the mean while, Arduino will count the usage time when people are still in there, lighting more EYES every 10 mins which is quite scaring. (But for the prototyping, I use 2 seconds as an interval.)
+My idea is that when people access to the InLink UK kiosk, they will be detected by the ultrasonic sensor and Arduino will show the icons of the kinds of data collected. For the scenario below, there are MAC and the personal image will be captured by the system. In the meanwhile, Arduino will count the usage time when people are still in there, lighting more EYES every 10 mins which is quite scaring. (But for the prototyping, I use 2 seconds as an interval.)
 
 
 <img src="https://user-images.githubusercontent.com/52306317/136707076-4234d827-b577-431d-b360-71af370d8bf1.png" alt="Cover" width="80%"/>
