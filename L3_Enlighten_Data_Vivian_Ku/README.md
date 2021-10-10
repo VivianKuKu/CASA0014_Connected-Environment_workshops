@@ -3,7 +3,9 @@
 ## EnLighten Data
 
 ### - Purpose
-EnLighten Data is aiming to...
+EnLighten Data is aiming to aware the data privacy issue and the presence of urban tech to all citizens.
+It is citizen's trust that leads to successful smart city project. However, people nowadays still have little perception of 
+
 
 ### - Concept
 
