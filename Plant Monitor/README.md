@@ -50,8 +50,8 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 
 - **Publish Data to MQTT**
-**Time**: 27 Oct at 13:14 in CE Lab
-Data: 
+* Time: 27 Oct at 13:14 in CE Lab
+* Data: 
     * Temperature: 24.3
     * Humidity: 56
     * Moisture: 63
