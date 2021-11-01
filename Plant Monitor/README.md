@@ -40,11 +40,14 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 - **Build a Soil Moisture Sensor**
 
-<img src="https://user-images.githubusercontent.com/52306317/139732637-9d36c21a-9f49-4e9b-b24c-1b6f4411970e.png" alt="Cover" width="70%"/>
-
-
 
 [Circuit diagram]
+
+
+<img src="https://user-images.githubusercontent.com/52306317/139732637-9d36c21a-9f49-4e9b-b24c-1b6f4411970e.png" alt="Cover" width="70%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139732761-fe3a92bf-46c8-400c-ae43-b30affa643c6.png" alt="Cover" width="70%"/>
+
+
 
 
 - **Publish Data to MQTT**
