@@ -19,3 +19,6 @@
 - **Publish Data to MQTT**
 
 
+- **Store data on a RPi gateway**
+
+- **Visualise time series data**
