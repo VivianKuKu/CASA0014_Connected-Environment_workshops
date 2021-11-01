@@ -69,6 +69,8 @@ Plant Moisture: 63
 
 <img src="https://user-images.githubusercontent.com/52306317/139734620-95ea74d5-7ccf-4679-995a-fbd00e14d0a1.png" alt="Cover" width="100%"/>
 
+<img src="https://user-images.githubusercontent.com/52306317/139737391-ae3bc7a1-b540-4a35-b25b-8601d9873ed6.png" alt="Cover" width="100%"/>
+
 
 
 https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-b7ad-bd7aefabf9c4.mp4
