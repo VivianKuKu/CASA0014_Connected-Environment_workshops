@@ -89,6 +89,33 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 [3] PLANTOPHILES- https://plantophiles.com/plant-care/peace-lily/
 
 
+
+- **Sensor Information**
+
+    * DHT22
+
+    | DHT22             | Description       |
+    | ---------------   | ---------------   |
+    | Humidity Reading           | 0 - 100% humidity             |
+    | Humidity Accuracy         | 2 - 5%              |
+    | Temperature Reading         | -40 to 80°C               |
+    | Temperature Accuracy         | ±0.5°C              |
+    | Sampling Rate         | 0.5Hz (every 2 seconds)            |
+
+    
+    
+    * Nail Soil Sensor
+
+
+**Reference:**
+
+[1] https://community.wia.io/d/54-dht11-vs-dht22-what-s-the-difference
+
+[2] https://www.instructables.com/Moisture-Detection-With-Two-Nails/
+
+
+
+
 <!-- ## :soccer:  Goals -->
 ## Goals
 
@@ -129,7 +156,10 @@ Detailed to Peace Lily's characteristics
     
 - [x] Temperature
 - [x] Humidity
-- [ ] Moisture --> I feel like a bit of wet (need consistently moist soil). --> will try keep on 80-100 --> the unit for moisture?????
+- [ ] Moisture --> I feel like a bit of wet (need consistently moist soil). --> will try keep on 80-100 --> the unit for moisture????? -->The more water in the soil, the less resistance we'll get (and vice versa).
+
+
+* **Data Explanation!!!**
 
 Test: touch two nails together -> +800
 Plant Moisture: 63
