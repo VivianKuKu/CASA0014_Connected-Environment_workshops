@@ -1,6 +1,6 @@
 ## CE_workshops
 
-## Enlighten Data
+### Enlighten Data
 
-## Plant Monitor
+### Plant Monitor
 
