@@ -1,6 +1,6 @@
 ## Plant Minotor
 
-## Subtitle
+## Subtitle (Peace Lily)
 
 ### - Background
 
