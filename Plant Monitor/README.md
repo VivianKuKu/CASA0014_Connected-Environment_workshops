@@ -1,7 +1,8 @@
 # Plant Minotor
 
 # Subtitle (Peace Lily)
-
+    introduction abouth my subtitle
+    
 <!-- ## :closed_book: Table of Content
 markdown: https://ithelp.ithome.com.tw/articles/10203758
 icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
@@ -41,10 +42,9 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 <!-- ## :soccer:  Goals -->
 ## Goals
 
-### A. ccc
-### B. ccc
-### C. ccc
-
+1. ddd
+2. xxx
+3. aaa
 
 <!-- ## :rocket:  Process -->
 ## Process
