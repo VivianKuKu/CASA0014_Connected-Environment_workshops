@@ -94,6 +94,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
     * DHT22
 
+
     | DHT22             | Description       |
     | ---------------   | ---------------   |
     | Humidity Reading           | 0 - 100% humidity             |
@@ -109,7 +110,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 **Reference:**
 
-[1] https://community.wia.io/d/54-dht11-vs-dht22-what-s-the-difference
+[1] https://learn.adafruit.com/dht
 
 [2] https://www.instructables.com/Moisture-Detection-With-Two-Nails/
 
@@ -156,7 +157,7 @@ Detailed to Peace Lily's characteristics
     
 - [x] Temperature
 - [x] Humidity
-- [ ] Moisture --> I feel like a bit of wet (need consistently moist soil). --> will try keep on 80-100 --> the unit for moisture????? -->The more water in the soil, the less resistance we'll get (and vice versa).
+- [ ] Moisture --> I feel like a bit of wet (need consistently moist soil). --> will try keep on ????? --> the unit for moisture????? -->The more water in the soil, the less resistance we'll get (and vice versa).
 
 
 * **Data Explanation!!!**
