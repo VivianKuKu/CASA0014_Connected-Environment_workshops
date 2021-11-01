@@ -22,6 +22,12 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 - **Why Monitoring?**
 
+    * To keep a plant happy and healthy.
+    
+    * To remedy a plant at the early stage when the signs that it is unhappy come up.
+    
+    * To data insight [TBC]
+
 - **Peace Lily**
 
     * **Spathiphyllum**
@@ -34,7 +40,10 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
     * **Humidity**
     
-        She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
+        * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
+        * Peace lilies prefer high humidity levels. Try to maintain at least 50% humidity level to have a thriving and growing peace lily in the house.
+        * Humidity should be above 50%, 60%, and above is ideal.
+        * A humidity level above 60% is best but they will tolerate anything about 50% humidity without a problem.
 
     * **Most light conditions**
     
@@ -44,10 +53,26 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
         
         * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again.
         * The plant prefers a light position, out of the bright sunshine with a temperature of 18-22 °C.
+        * The ideal temperature range is 65 to 80 °F (18 and 26 °C).
 
     * **Light watering**
         
         She’s pretty tough and will usually bounce back from a missed watering. Water her when the top inch of soil feels dry.
+        
+    * **Bloom**
+
+        When met with the proper requirements, this species of Spathiphyllum blooms in Spring and might flower again in Autumn under ideal conditions.
+        
+    * **When to water**
+
+        Expect to thoroughly water your Peace Lily once a week, more during the summer growing season.
+        
+    * **SIGNS THAT YOUR PEACE LILY PLANT IS UNHAPPY**
+
+        * YELLOWING LEAVES
+        * REDUCTION IN BLOOMS
+        * TIPS OF THE LEAVES TURN BROWN
+        * 
 
 <img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
 
@@ -56,6 +81,8 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 [1] Patch Plant- https://www.patchplants.com/gb/en/plants/peace-lily-164/
 
 [2] Gardening Know How- https://www.gardeningknowhow.com/houseplants/peace-lily/peace-lily-plants.htm
+
+[3] PLANTOPHILES- https://plantophiles.com/plant-care/peace-lily/
 
 
 <!-- ## :soccer:  Goals -->
