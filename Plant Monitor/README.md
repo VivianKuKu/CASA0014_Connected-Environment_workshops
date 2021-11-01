@@ -4,14 +4,14 @@
 
 [table of content]
 
-## - Background
+## :herb: Background
 
 - **Why Monitoring?**
 
 - **Peace Lily**
 
 
-## - Goals
+## :soccer: Goals
 
 ### A. ccc
 ### B. ccc
@@ -32,10 +32,6 @@
 
 
 - **Publish Data to MQTT**
-
-
-
-
 
 
 
