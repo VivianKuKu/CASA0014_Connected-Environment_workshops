@@ -2,15 +2,21 @@
 
 ## Subtitle (Peace Lily)
 
+
+
 ### - Background
 
 - **Why Monitoring?**
 
 - **Peace Lily**
+- 
 
 ### - Process
 
+
 [Flow Chart]
+
+
 
 - **Set Up Feather Huzzah ESP8266 Wifi**
 
