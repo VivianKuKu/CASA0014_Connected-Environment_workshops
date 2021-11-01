@@ -1,24 +1,24 @@
-## Plant Minotor
+# Plant Minotor
 
-## Subtitle (Peace Lily)
+# Subtitle (Peace Lily)
 
 [table of content]
 
-### - Background
+## - Background
 
 - **Why Monitoring?**
 
 - **Peace Lily**
 
 
-### - Goals
+## - Goals
 
-#### A. ccc
-#### B. ccc
-#### C. ccc
+### A. ccc
+### B. ccc
+### C. ccc
 
 
-### - :rocket:Process
+## :rocket:Process
 
 
 [Flow Chart]
