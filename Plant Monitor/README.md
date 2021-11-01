@@ -98,9 +98,6 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 ### 4. Store data on a RPi gateway
 heeheheeheheeheheeheheeheheehe
 
-<img src="https://user-images.githubusercontent.com/52306317/139720747-75fdc26d-a912-405e-b893-1261f16314bd.jpg" alt="Cover" width="50%"/>
-
-
 
 ### 5. Visualise time series data
 
