@@ -4,16 +4,18 @@
 
 ### - Background
 
+- **Why Monitoring?**
 
+- **Peace Lily**
 
 ### - Process
 
-**- Set Up Feather Huzzah ESP8266 Wifi**
+- **Set Up Feather Huzzah ESP8266 Wifi**
 
 
-**- build a Soil Moisture Sensor**
+- **Build a Soil Moisture Sensor**
 
 
-**- Publish Data to MQTT**
+- **Publish Data to MQTT**
 
 
