@@ -5,6 +5,8 @@
     
     [icon . logo]
     
+    enjoys moist soil and low-light conditions.
+    
 <!-- ## :closed_book: Table of Content
 markdown: https://ithelp.ithome.com.tw/articles/10203758
 icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
@@ -47,7 +49,9 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
     * **Most light conditions**
     
-        She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
+        * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
+        * They thrive in low light and are not to be put in direct sunlight.
+        * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown.
 
     * **Temperature**
         
@@ -88,6 +92,8 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 <!-- ## :soccer:  Goals -->
 ## Goals
 
+Detailed to Peace Lily's characteristics
+
 1. ddd
 2. xxx
 3. aaa
@@ -123,7 +129,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     
 - [x] Temperature
 - [x] Humidity
-- [ ] Moisture
+- [ ] Moisture --> I feel like a bit of wet (need consistently moist soil). --> will try keep on 80-100 --> the unit for moisture?????
 
 Test: touch two nails together -> +800
 Plant Moisture: 63
