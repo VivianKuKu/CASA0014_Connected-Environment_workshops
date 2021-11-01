@@ -13,21 +13,25 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     4_
     5_
  -->
-## :herb:  Background
+ 
+<!-- ## :herb:  Background -->
+## Background
 
 - **Why Monitoring?**
 
 - **Peace Lily**
 
 
-## :soccer:  Goals
+<!-- ## :soccer:  Goals -->
+## Goals
 
 ### A. ccc
 ### B. ccc
 ### C. ccc
 
 
-## :rocket:  Process
+<!-- ## :rocket:  Process -->
+## Process
 
 
 [Flow Chart]
@@ -83,8 +87,10 @@ heeheheeheheeheheeheheeheheehe
 
 heeheheeheheeheheeheheehe
 
-## :teddy_bear:  Next Step
+<!-- ## :teddy_bear:  Next Step -->
+## Next Step
 
 
 
-## :christmas_tree:  Reference
+<!-- ## :christmas_tree:  Reference -->
+## Reference
