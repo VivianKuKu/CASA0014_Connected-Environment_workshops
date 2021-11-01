@@ -27,12 +27,13 @@
 
 - **Set Up Feather Huzzah ESP8266 Wifi**
 
-<img src="https://user-images.githubusercontent.com/52306317/139721030-8dcc1323-eb5f-46a2-b9ff-a2f3e37a8a13.jpg" alt="Cover" width="50%"/>
+[highlight key scripts!]
 
 - **Build a Soil Moisture Sensor**
 
+<img src="https://user-images.githubusercontent.com/52306317/139721030-8dcc1323-eb5f-46a2-b9ff-a2f3e37a8a13.jpg" alt="Cover" width="50%"/>
 
-
+[Circuit diagram]
 
 
 - **Publish Data to MQTT**
