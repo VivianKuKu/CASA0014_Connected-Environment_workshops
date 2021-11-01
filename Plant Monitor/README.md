@@ -53,7 +53,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 <img src="https://user-images.githubusercontent.com/52306317/139717087-7152ef0e-aeb5-4b2a-924e-cb1cc0cbe2de.jpg" alt="Cover" width="50%"/>
 
-<!-- <video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/> -->
+<video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/>
 
 
 https://user-images.githubusercontent.com/52306317/139733302-c6410a47-c72a-4a7a-8e88-96486f9ce217.mp4
