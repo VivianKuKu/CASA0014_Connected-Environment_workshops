@@ -21,6 +21,8 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 - **Peace Lily**
 
+<img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
+
 
 <!-- ## :soccer:  Goals -->
 ## Goals
