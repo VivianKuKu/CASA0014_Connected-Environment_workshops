@@ -50,9 +50,9 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 
 - **Publish Data to MQTT**
-
+<!-- 
 <img src="https://user-images.githubusercontent.com/52306317/139733138-9d40d31d-51e7-4e33-a466-e937f463040f.png" alt="Cover" width="70%"/> 
-<img src="https://user-images.githubusercontent.com/52306317/139733918-5720f514-1dd8-427c-b837-a1ce4b68e0d3.png" alt="Cover" width="70%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139733918-5720f514-1dd8-427c-b837-a1ce4b68e0d3.png" alt="Cover" width="70%"/> -->
 
 <img src="https://user-images.githubusercontent.com/52306317/139734620-95ea74d5-7ccf-4679-995a-fbd00e14d0a1.png" alt="Cover" width="100%"/>
 
