@@ -37,15 +37,9 @@
 
 - **Publish Data to MQTT**
 
-
-
 <img src="https://user-images.githubusercontent.com/52306317/139717087-7152ef0e-aeb5-4b2a-924e-cb1cc0cbe2de.jpg" alt="Cover" width="50%"/>
 
-
 <video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/>
-
-
-
 - **Store data on a RPi gateway**
 heeheheeheheeheheeheheeheheehe
 
