@@ -20,8 +20,22 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 - **Why Monitoring?**
 
 - **Peace Lily**
+One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering.
+
+* Humidity
+She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
+
+* Most light conditions
+She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
+
+* Light watering
+She’s pretty tough and will usually bounce back from a missed watering. Water her when the top inch of soil feels dry.
 
 <img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
+
+Ref:
+[1]https://www.patchplants.com/gb/en/plants/peace-lily-164/
+[2]https://www.gardeningknowhow.com/houseplants/peace-lily/peace-lily-plants.htm
 
 
 <!-- ## :soccer:  Goals -->
