@@ -67,9 +67,9 @@ Plant Moisture: 63
 <img src="https://user-images.githubusercontent.com/52306317/139733138-9d40d31d-51e7-4e33-a466-e937f463040f.png" alt="Cover" width="70%"/> 
 <img src="https://user-images.githubusercontent.com/52306317/139733918-5720f514-1dd8-427c-b837-a1ce4b68e0d3.png" alt="Cover" width="70%"/> -->
 
-<img src="https://user-images.githubusercontent.com/52306317/139734620-95ea74d5-7ccf-4679-995a-fbd00e14d0a1.png" alt="Cover" width="100%"/>
+<!-- <img src="https://user-images.githubusercontent.com/52306317/139734620-95ea74d5-7ccf-4679-995a-fbd00e14d0a1.png" alt="Cover" width="100%"/> -->
 
-<img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="100%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="70%"/>
 
 
 
