@@ -121,6 +121,10 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     * Humidity: 56
     * Moisture: 63
     
+- [x] Temperature
+- [x] Humidity
+- [ ] Moisture
+
 Test: touch two nails together -> +800
 Plant Moisture: 63
 
