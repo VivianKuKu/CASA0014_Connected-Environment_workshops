@@ -52,11 +52,11 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 
 ### 3. Publish Data to MQTT
-    * Time: 27 Oct at 13:14 in CE Lab
-    * Data: 
-        * Temperature: 24.3
-        * Humidity: 56
-        * Moisture: 63
+* Time: 27 Oct at 13:14 in CE Lab
+* Data: 
+    * Temperature: 24.3
+    * Humidity: 56
+    * Moisture: 63
     
 Test: touch two nails together -> +800
 Plant Moisture: 63
