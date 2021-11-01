@@ -44,9 +44,8 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 [Circuit diagram]
 
 
-<img src="https://user-images.githubusercontent.com/52306317/139732637-9d36c21a-9f49-4e9b-b24c-1b6f4411970e.png" alt="Cover" width="70%"/>
-<img src="https://user-images.githubusercontent.com/52306317/139732761-fe3a92bf-46c8-400c-ae43-b30affa643c6.png" alt="Cover" width="70%"/>
-
+<img src="https://user-images.githubusercontent.com/52306317/139733132-b2756297-6bf7-4328-a4ed-289d1a90525c.png" alt="Cover" width="90%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139733138-9d40d31d-51e7-4e33-a466-e937f463040f.png" alt="Cover" width="90%"/>
 
 
 
@@ -55,7 +54,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 <img src="https://user-images.githubusercontent.com/52306317/139717087-7152ef0e-aeb5-4b2a-924e-cb1cc0cbe2de.jpg" alt="Cover" width="50%"/>
 
 <!-- <video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/> -->
-
+video.mp4
 
 - **Store data on a RPi gateway**
 heeheheeheheeheheeheheeheheehe
