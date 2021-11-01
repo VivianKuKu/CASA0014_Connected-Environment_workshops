@@ -2,7 +2,7 @@
 
 ## Subtitle (Peace Lily)
 
-
+[table of content]
 
 ### - Background
 
@@ -13,9 +13,9 @@
 
 ### - Goals
 
-A. xxx 
-B. xx
-c. sss
+**A. xxx **
+**B. xx**
+**c. sss**
 
 
 ### - Process
