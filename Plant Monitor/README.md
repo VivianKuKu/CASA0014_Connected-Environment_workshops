@@ -20,7 +20,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 - **Peace Lily**
 
 
-## :soccer:  2_Goals
+## :soccer:  Goals
 
 ### A. ccc
 ### B. ccc
