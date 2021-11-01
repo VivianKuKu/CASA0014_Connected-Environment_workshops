@@ -10,6 +10,8 @@
 
 ### - Process
 
+[Flow Chart]
+
 - **Set Up Feather Huzzah ESP8266 Wifi**
 
 
