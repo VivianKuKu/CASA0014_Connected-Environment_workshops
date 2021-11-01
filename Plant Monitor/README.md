@@ -9,7 +9,14 @@
 - **Why Monitoring?**
 
 - **Peace Lily**
-- 
+
+
+### - Goals
+
+A. xxx 
+B. xx
+c. sss
+
 
 ### - Process
 
@@ -28,12 +35,16 @@
 
 
 
-<video src="
 
 
-https://user-images.githubusercontent.com/52306317/139714940-76fc7a18-a223-4770-ab8c-9b8b6268a24a.mov" type="video/mp4" width="35%"/>
 
 
+
+
+<img src="https://user-images.githubusercontent.com/52306317/136709107-1319185e-48e8-4dfc-bc4b-c51da7e18bc1.png" alt="Cover" width="35%"/>
+
+
+<video src="https://user-images.githubusercontent.com/52306317/139715270-a1fbd2af-5897-419f-81f7-735f80718ed1.mov" type="video/mp4" width="35%"/>
 
 
 
