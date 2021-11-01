@@ -33,12 +33,11 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 [Flow Chart]
 
 
-
-- **1. Set Up Feather Huzzah ESP8266 Wifi**
+### 1. Set Up Feather Huzzah ESP8266 Wifi
 
 [highlight key scripts!]
 
-- **2. Build a Soil Moisture Sensor**
+### 2. Build a Soil Moisture Sensor
 
 
 [Circuit diagram]
@@ -48,8 +47,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 
 
-
-- **3. Publish Data to MQTT**
+### 3. Publish Data to MQTT
     * Time: 27 Oct at 13:14 in CE Lab
     * Data: 
         * Temperature: 24.3
@@ -74,14 +72,14 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 <!-- <video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/> -->
 
 
-- **4. Store data on a RPi gateway**
+### 4. Store data on a RPi gateway
 heeheheeheheeheheeheheeheheehe
 
 <img src="https://user-images.githubusercontent.com/52306317/139720747-75fdc26d-a912-405e-b893-1261f16314bd.jpg" alt="Cover" width="50%"/>
 
 
 
-- **5. Visualise time series data**
+### 5. Visualise time series data
 
 heeheheeheheeheheeheheehe
 
