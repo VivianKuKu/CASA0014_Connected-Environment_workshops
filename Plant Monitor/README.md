@@ -40,7 +40,9 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 - **Build a Soil Moisture Sensor**
 
-<img src="https://user-images.githubusercontent.com/52306317/139721030-8dcc1323-eb5f-46a2-b9ff-a2f3e37a8a13.jpg" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139732637-9d36c21a-9f49-4e9b-b24c-1b6f4411970e.png" alt="Cover" width="70%"/>
+
+
 
 [Circuit diagram]
 
