@@ -4,7 +4,7 @@
 
 [table of content]
 
-    ## :closed_book: **Table of Content**
+    :closed_book: Table of Content
 
 ## :herb: Background
 
