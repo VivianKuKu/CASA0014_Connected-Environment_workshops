@@ -4,47 +4,47 @@
     
     Peace Lily, officially called Spathiphyllum, is well known for its air-purifying abilities as a houseplant.
     
-
+<!-- 
 * **Introduction**
 
-    One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering.
+    One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering. -->
+
+## Top Tips for Caring Peace Lily
 
 * **Humidity**
 
-    * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
+<!--     * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
     * Peace lilies prefer high humidity levels. Try to maintain at least 50% humidity level to have a thriving and growing peace lily in the house.
-    * Humidity should be above 50%, 60%, and above is ideal.
+    * Humidity should be above 50%, 60%, and above is ideal. -->
     * A humidity level above 60% is best but they will tolerate anything about 50% humidity without a problem.
 
 * **Most light conditions**
 
-    * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
+<!--     * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot. -->
     * They thrive in low light and are not to be put in direct sunlight.
-    * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown.
+<!--     * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown. -->
 
 * **Temperature**
 
-    * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again.
-    * The plant prefers a light position, out of the bright sunshine with a temperature of 18-22 °C.
-    * The ideal temperature range is 65 to 80 °F (18 and 26 °C).
-
-* **Light watering**
-
-    She’s pretty tough and will usually bounce back from a missed watering. Water her when the top inch of soil feels dry.
+<!--     * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again. -->
+    * They prefer a light position, out of the bright sunshine with a temperature of 18-22 °C.
+<!--     * The ideal temperature range is 65 to 80 °F (18 and 26 °C). -->
 
 * **Bloom**
 
-    When met with the proper requirements, this species of Spathiphyllum blooms in Spring and might flower again in Autumn under ideal conditions.
+    When met with the proper requirements, this species of Spathiphyllum blooms in ```Spring``` and might flower again in ```Autumn``` under ideal conditions.
 
 * **When to water**
 
-    Expect to thoroughly water your Peace Lily once a week, more during the summer growing season.
+    * Expect to thoroughly water them once a week, more during the ```summer growing season```.
+    * They are pretty tough and will usually bounce back from a missed watering. Water them when the top inch of soil feels dry.
+    
 
 * **SIGNS THAT YOUR PEACE LILY PLANT IS UNHAPPY**
 
-    * YELLOWING LEAVES
+    ```* YELLOWING LEAVES
     * REDUCTION IN BLOOMS
-    * TIPS OF THE LEAVES TURN BROWN
+    * TIPS OF THE LEAVES TURN BROWN```
         
 
 <img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
