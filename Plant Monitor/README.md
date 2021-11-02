@@ -90,14 +90,14 @@
 
     https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
-- **Raspberry Pi 4 Computer (Model B 4GB)**
+- **Raspberry Pi 4 Computer**
 
-    * 1
-    * 2
-    * 3
+    * Model B 4GB
 
     <img src="https://user-images.githubusercontent.com/52306317/139950326-b667463c-cb4c-46c2-a870-b4bf8731cb3d.png" alt="Cover" width="50%"/>
-
+    
+    https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+    
 
 - **Sensor Information**
 
