@@ -132,6 +132,26 @@
 
 ### 1. Set Up Feather Huzzah ESP8266 Wifi
 
+```
+void startWifi() {
+  // We start by connecting to a WiFi network
+  Serial.println();
+  Serial.print("Connecting to ");
+  Serial.println(ssid);
+  WiFi.begin(ssid, password);
+
+  // check to see if connected and wait until you are
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println("");
+  Serial.println("WiFi connected");
+  Serial.print("IP address: ");
+  Serial.println(WiFi.localIP());
+}
+```
+
 [highlight key scripts!]
 
 ### 2. Build a Soil Moisture Sensor
@@ -175,6 +195,26 @@
 
 https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-b7ad-bd7aefabf9c4.mp4
 
+* Publish data to MQTT: Use my topic name–– ucfncku and massages of temperature, humidity and moisture.
+
+```
+void sendMQTT() {
+
+  if (!client.connected()) {
+    reconnect();
+  }
+  client.loop();
+
+  Temperature = dht.readTemperature(); // Gets the values of the temperature
+  snprintf (msg, 50, "%.1f", Temperature);
+  Serial.print("Publish message for t: ");
+  Serial.println(msg);
+  client.publish("student/CASA0014/plant/ucfncku/temperature", msg);
+  
+  ...
+  
+}
+```
 
 
 ### 4. Store data on a RPi gateway
