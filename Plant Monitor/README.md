@@ -177,24 +177,12 @@ Detailed to Peace Lily's characteristics
 
 ```Humidity:``` Great! ( > 50% is good; > 60% is ideal )
 
-```Moisture:``` (To be experience, the soil seems too dry for Peace Lily)
-
-
-
-* **Data Explanation!!!**
-
-Test: 
-Plant Moisture: 63
-
+```Moisture:``` (To be experiment, the soil seems too dry for Peace Lily)
 
 <img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="100%"/>
 
 
-
 https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-b7ad-bd7aefabf9c4.mp4
-
-
-<!-- <video src="https://user-images.githubusercontent.com/52306317/139717019-878370eb-f470-4fd0-84df-83938561631a.mp4" type="video/mp4" width="40%"/> -->
 
 
 ### 4. Store data on a RPi gateway
@@ -209,7 +197,6 @@ https://www.influxdata.com/
 [To be Finished]
 
 https://grafana.com/
-
 
 
 
