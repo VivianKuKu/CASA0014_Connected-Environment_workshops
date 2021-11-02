@@ -89,6 +89,12 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 [3] PLANTOPHILES- https://plantophiles.com/plant-care/peace-lily/
 
 
+## Board & Sensor
+
+- **Feather Huzzah ESP8266 Wifi**
+
+hello
+
 
 - **Sensor Information**
 
@@ -103,6 +109,9 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     | Temperature Accuracy         | ±0.5°C              |
     | Sampling Rate         | 0.5Hz (every 2 seconds)            |
 
+    
+    Test and Calibrate
+    https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
     
     
     * Nail Soil Sensor
