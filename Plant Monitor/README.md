@@ -93,7 +93,11 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 - **Feather Huzzah ESP8266 Wifi**
 
-hello
+    * The ESP8266 runs on 3.3V power and logic, and unless otherwise specified.
+    
+    * The analog pin is also 1.0V max
+
+    https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
 
 - **Sensor Information**
@@ -148,8 +152,9 @@ Detailed to Peace Lily's characteristics
 
 ### 2. Build a Soil Moisture Sensor
 
+* we added an NPN transistor so that we could turn off the voltage going to the nails to reduce electrolysis (ie we literally have a switch that turns off that part of the circuit when we are not taking a reading)
 
-[Circuit diagram]
+* [Circuit diagram]
 
 
 <img src="https://user-images.githubusercontent.com/52306317/139733132-b2756297-6bf7-4328-a4ed-289d1a90525c.png" alt="Cover" width="70%"/>
