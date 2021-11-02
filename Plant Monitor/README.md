@@ -145,8 +145,7 @@ Detailed to Peace Lily's characteristics
 <!-- ## :rocket:  Process -->
 ## Process
 
-
-[Flow Chart]
+<img src="https://user-images.githubusercontent.com/52306317/139906286-e6e36bfe-289f-4f25-a535-e207ac6e4b2c.png" alt="Cover" width="90%"/>
 
 
 ### 1. Set Up Feather Huzzah ESP8266 Wifi
@@ -203,9 +202,20 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 
 [To be Finished]
 
+**Reference:**
+
+[1] InfluxDB- https://www.influxdata.com/
+
+
 ### 5. Visualise time series data
 
 [To be Finished]
+
+**Reference:**
+
+[1] Grafana- https://grafana.com/
+
+
 
 <!-- ## :teddy_bear:  Next Step -->
 ## Reflection
