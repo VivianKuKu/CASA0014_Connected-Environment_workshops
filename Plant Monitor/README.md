@@ -39,10 +39,10 @@
     
         * Remedy: Let the plant breathe when it comes to watering. Allow it to dry out completely and then adjust your watering schedule as needed.
     
-    * ```Reduction in blooms```
+    * ```Reduction in Blooms```
         * Remedy: Move it to an area with indirect light.
     
-    * ```Tips of the leaves turn brown```
+    * ```Tips of the Leaves turn Brown```
         * Remedy: Move it to an area with indirect light and increase the humidity.
 
         
@@ -59,21 +59,13 @@
 
 
 
-## Backgound
+## Goal
 
-- **Why Monitoring?**
+#### 1. To keep a plant happy and healthy by understanding its ideal living requirement.
 
-    * To keep a plant happy and healthy.
-    
-    * To detect the unhappy signs of a plant and remedy it at the early stage.
-    
-    * To build visualization webpage with the live data from real world.
+#### 2. To detect the unhappy signs of a plant and remedy it at the early stage.
 
-
-    * Detailed to Peace Lily's characteristics
-
-- **Goal**
-
+#### 3. Hope to build webpage embedded a 3D model of Peace Lily and to demonstrate the live data and notification.
 
 
 ## Board & Sensor
@@ -150,7 +142,11 @@
 
 * we added an NPN transistor so that we could turn off the voltage going to the nails to reduce electrolysis (ie we literally have a switch that turns off that part of the circuit when we are not taking a reading)
 
-* [Circuit diagram]
+
+
+<img src="https://user-images.githubusercontent.com/52306317/139956795-0757b810-96f2-4f17-a909-4996398b6792.png" alt="Cover" width="70%"/>
+
+(source: CE Workshop, CASA, UCL)
 
 
 <img src="https://user-images.githubusercontent.com/52306317/139733132-b2756297-6bf7-4328-a4ed-289d1a90525c.png" alt="Cover" width="70%"/>
