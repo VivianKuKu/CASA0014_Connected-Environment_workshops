@@ -195,7 +195,7 @@ void startWifi() {
 
 https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-b7ad-bd7aefabf9c4.mp4
 
-* Publish data to MQTT: Use my topic name–– ucfncku and massages of temperature, humidity and moisture.
+* **Publish data to MQTT**: Publish to my topic name–– "ucfncku" and massages of temperature, humidity and moisture.
 
 ```
 void sendMQTT() {
@@ -213,6 +213,30 @@ void sendMQTT() {
   
   ...
   
+}
+```
+
+
+* **Reconnect to MQTT**: Subscribe to my topic–– "ucfncku"
+ 
+```
+void reconnect() {
+
+    ...
+    
+    // Attempt to connect with clientID, username and password
+    if (client.connect(clientId.c_str(), mqttuser, mqttpass)) {
+      Serial.println("connected");
+      // ... and resubscribe
+      client.subscribe("student/CASA0014/plant/ucfncku/inTopic");
+    } else {
+      Serial.print("failed, rc=");
+      Serial.print(client.state());
+      Serial.println(" try again in 5 seconds");
+      // Wait 5 seconds before retrying
+      delay(5000);
+    }
+  }
 }
 ```
 
