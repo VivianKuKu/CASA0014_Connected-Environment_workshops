@@ -64,7 +64,7 @@
         * YELLOWING LEAVES
         * REDUCTION IN BLOOMS
         * TIPS OF THE LEAVES TURN BROWN
-        * 
+        
 
 <img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
 
@@ -83,12 +83,13 @@
 
     * 3.3V regulator with 500mA peak current output
     * 1 x analog inputs 1.0V max
-    * Pin #0 red LED for general purpose blinking. Pin #2 blue LED for bootloading debug & general purpose blinking
+    * Pin #0 red LED for general purpose blinking.
+    * Pin #2 blue LED for bootloading debug & general purpose blinking
     
 
-<img src="https://user-images.githubusercontent.com/52306317/139914373-98f6b8ad-0173-46ee-bf11-49e4ad341fd2.png" alt="Cover" width="50%"/>
+    <img src="https://user-images.githubusercontent.com/52306317/139914373-98f6b8ad-0173-46ee-bf11-49e4ad341fd2.png" alt="Cover" width="50%"/>
 
-https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
+    https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
 
 - **Sensor Information**
@@ -105,8 +106,9 @@ https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
         | Sampling Rate         | 0.5Hz (every 2 seconds)            |
 
     
-        Test and Calibrate
-        https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
+        * Test and Calibrate
+          
+          https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
     
     <img src="https://user-images.githubusercontent.com/52306317/139915022-c800fd49-852e-4850-b4a7-ac037570f862.png" alt="Cover" width="50%"/>
     
@@ -114,9 +116,11 @@ https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
     * **Nail Soil Sensor**
     
-        https://www.instructables.com/Moisture-Detection-With-Two-Nails/
+        * The more water in the soil, the less resistance we'll get (and vice versa).
         
-        https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/
+          https://www.instructables.com/Moisture-Detection-With-Two-Nails/
+        
+          https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/
 
 **Reference:**
 
