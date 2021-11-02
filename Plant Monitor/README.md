@@ -1,13 +1,11 @@
 # :potted_plant: Plant Minotor- Peace Lily
 
-> Fresh, Green & Air-purifying   
-    
-    Peace Lily, officially called Spathiphyllum, is well known for its air-purifying abilities as a houseplant.
-    
-<!-- 
-* **Introduction**
+<!-- > Fresh, Green & Air-purifying    -->
 
-    One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering. -->
+> Peace Lily, officially called Spathiphyllum, is well known for its air-purifying abilities as a houseplant.
+
+<img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
+    
 
 ## Top Tips for Caring for Peace Lily
 
@@ -45,9 +43,7 @@
     * ```Tips of the Leaves turn Brown```
         * Remedy: Move it to an area with indirect light and increase the humidity.
 
-        
 
-<img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
 
 **Reference:**
 
