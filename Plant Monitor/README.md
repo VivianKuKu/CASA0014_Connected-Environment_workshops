@@ -61,9 +61,9 @@
 
 ## Goal
 
-#### 1. To keep a plant happy and healthy by understanding its ideal living requirement.
+#### 1. To keep a plant happy and healthy by understanding its ideal living requirement. (vs. requirement provided by textbooks)
 
-#### 2. To detect the unhappy signs of a plant and remedy it at the early stage.
+#### 2. Hope to detect the unhappy signs of a plant and remedy it at the early stage.
 
 #### 3. Hope to build webpage embedded a 3D model of Peace Lily and to demonstrate the live data and notification.
 
