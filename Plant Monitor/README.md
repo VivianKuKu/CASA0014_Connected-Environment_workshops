@@ -1,12 +1,65 @@
-# Plant Minotor :potted_plant::seedling::blossom:
-# Fresh, Green & Air-purifying: Peace Lily
-    
-    
-    enjoys moist soil and low-light conditions.
-    
-> AS FRESH AS SUMMER BREEZE!
+# :potted_plant: Plant Minotor- Peace Lily
 
-## Peace Lily
+> Fresh, Green & Air-purifying   
+    
+    Peace Lily, officially called Spathiphyllum, is well known for its air-purifying abilities as a houseplant.
+    
+
+* **Introduction**
+
+    One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering.
+
+* **Humidity**
+
+    * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
+    * Peace lilies prefer high humidity levels. Try to maintain at least 50% humidity level to have a thriving and growing peace lily in the house.
+    * Humidity should be above 50%, 60%, and above is ideal.
+    * A humidity level above 60% is best but they will tolerate anything about 50% humidity without a problem.
+
+* **Most light conditions**
+
+    * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
+    * They thrive in low light and are not to be put in direct sunlight.
+    * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown.
+
+* **Temperature**
+
+    * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again.
+    * The plant prefers a light position, out of the bright sunshine with a temperature of 18-22 °C.
+    * The ideal temperature range is 65 to 80 °F (18 and 26 °C).
+
+* **Light watering**
+
+    She’s pretty tough and will usually bounce back from a missed watering. Water her when the top inch of soil feels dry.
+
+* **Bloom**
+
+    When met with the proper requirements, this species of Spathiphyllum blooms in Spring and might flower again in Autumn under ideal conditions.
+
+* **When to water**
+
+    Expect to thoroughly water your Peace Lily once a week, more during the summer growing season.
+
+* **SIGNS THAT YOUR PEACE LILY PLANT IS UNHAPPY**
+
+    * YELLOWING LEAVES
+    * REDUCTION IN BLOOMS
+    * TIPS OF THE LEAVES TURN BROWN
+        
+
+<img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
+
+**Reference:**
+
+[1] Patch Plant- https://www.patchplants.com/gb/en/plants/peace-lily-164/
+
+[2] Gardening Know How- https://www.gardeningknowhow.com/houseplants/peace-lily/peace-lily-plants.htm
+
+[3] PLANTOPHILES- https://plantophiles.com/plant-care/peace-lily/
+
+
+
+## Backgound
 
 - **Why Monitoring?**
 
@@ -19,64 +72,8 @@
 
     * Detailed to Peace Lily's characteristics
 
+- **Goal**
 
-- **Peace Lily**
-
-    * **Spathiphyllum**
-    
-        Spathiphyllum
-    
-    * **Introduction**
-        
-        One of the most common mistakes in the care of peace lilies is overwatering. Peace lilies are far more tolerant of underwatering than overwatering, which is one of the most common reasons for a peace lily to die. It is because of this, you should never water peace lily plants on a schedule. Rather, you should check them once a week to see if they need to be watered. Simply touch the top of the soil to see if it is dry. If it is, water your peace lily. If the soil is still damp, the plant does not need to be watered. Some people will go so far as to wait until their peace lily is starting to droop before watering their plant. As these plants are very drought tolerant, this method does not harm the plant and will prevent overwatering.
-
-    * **Humidity**
-    
-        * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
-        * Peace lilies prefer high humidity levels. Try to maintain at least 50% humidity level to have a thriving and growing peace lily in the house.
-        * Humidity should be above 50%, 60%, and above is ideal.
-        * A humidity level above 60% is best but they will tolerate anything about 50% humidity without a problem.
-
-    * **Most light conditions**
-    
-        * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot.
-        * They thrive in low light and are not to be put in direct sunlight.
-        * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown.
-
-    * **Temperature**
-        
-        * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again.
-        * The plant prefers a light position, out of the bright sunshine with a temperature of 18-22 °C.
-        * The ideal temperature range is 65 to 80 °F (18 and 26 °C).
-
-    * **Light watering**
-        
-        She’s pretty tough and will usually bounce back from a missed watering. Water her when the top inch of soil feels dry.
-        
-    * **Bloom**
-
-        When met with the proper requirements, this species of Spathiphyllum blooms in Spring and might flower again in Autumn under ideal conditions.
-        
-    * **When to water**
-
-        Expect to thoroughly water your Peace Lily once a week, more during the summer growing season.
-        
-    * **SIGNS THAT YOUR PEACE LILY PLANT IS UNHAPPY**
-
-        * YELLOWING LEAVES
-        * REDUCTION IN BLOOMS
-        * TIPS OF THE LEAVES TURN BROWN
-        
-
-<img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
-
-**Reference:**
-
-[1] Patch Plant- https://www.patchplants.com/gb/en/plants/peace-lily-164/
-
-[2] Gardening Know How- https://www.gardeningknowhow.com/houseplants/peace-lily/peace-lily-plants.htm
-
-[3] PLANTOPHILES- https://plantophiles.com/plant-care/peace-lily/
 
 
 ## Board & Sensor
@@ -176,11 +173,14 @@
 ```Humidity:``` Great! ( > 50% is good; > 60% is ideal )
 
 ```Moisture:``` (To be experiment, the soil seems too dry for Peace Lily from my hand touch)
+    
+    How to make your soil retain more water?- https://plantcareforbeginners.com/articles/how-to-make-your-soil-retain-more-water
 
 <img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="100%"/>
 
 
 https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-b7ad-bd7aefabf9c4.mp4
+
 
 
 ### 4. Store data on a RPi gateway
