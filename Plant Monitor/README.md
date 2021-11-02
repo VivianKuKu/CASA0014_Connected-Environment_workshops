@@ -13,22 +13,15 @@
 
 * **Humidity**
 
-<!--     * She loves humidity. If your bathroom gets lots of light, pop her in there. Or mist her every few days to keep her happy.
-    * Peace lilies prefer high humidity levels. Try to maintain at least 50% humidity level to have a thriving and growing peace lily in the house.
-    * Humidity should be above 50%, 60%, and above is ideal. -->
-    * A humidity level above 60% is best but they will tolerate anything about 50% humidity without a problem.
+    * A humidity level above ```60%``` is best but they will tolerate anything about ```50%``` humidity without a problem.
 
-* **Most light conditions**
+* **Light**
 
-<!--     * She’s easy when it comes to light, managing in most conditions, though she’ll flower more in a brighter spot. -->
-    * They thrive in low light and are not to be put in direct sunlight.
-<!--     * Too much sun causes the plant to be stressed and results in the leaves turning yellow and brown. -->
+    * They thrive in ```low light``` and are not to be put in direct sunlight.
 
 * **Temperature**
 
-<!--     * Place the plant in an area with a temperature of around 15 °C, for six to eight weeks in a light position and it will soon flourish again. -->
-    * They prefer a light position, out of the bright sunshine with a temperature of 18-22 °C.
-<!--     * The ideal temperature range is 65 to 80 °F (18 and 26 °C). -->
+    * They prefer a light position, out of the bright sunshine with a temperature of ```18-22 °C```.
 
 * **Bloom**
 
@@ -42,9 +35,11 @@
 
 * **SIGNS THAT YOUR PEACE LILY PLANT IS UNHAPPY**
 
-    ```* YELLOWING LEAVES
-    * REDUCTION IN BLOOMS
-    * TIPS OF THE LEAVES TURN BROWN```
+    * ```Yellow Leaves```
+    
+    * ```Reduction in blooms```
+    
+    * ```Tips of the leaves turn brown```
         
 
 <img src="https://user-images.githubusercontent.com/52306317/139738207-40bf5fb8-8830-4b9f-90d1-053e4072d1ae.png" alt="Cover" width="70%"/>
