@@ -210,7 +210,7 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 <!-- ## :teddy_bear:  Next Step -->
 ## Reflection
 
-* Experiment
+* **Experiment & Calibaration for Critical Numbers**
 
     * Steel Nail
 
@@ -224,11 +224,11 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
         * https://github.com/ucl-casa-ce/casa0014/blob/main/plantMonitor/testEnvWeb/testEnvWeb.ino
         * https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
 
-* Other Sensors
+* **Add-on other Sensors**
 
     * abcdefg
 
-* User Interaction
+* **User Interaction via Website**
 
     * 3D digital twin for Peace Lily
     * [schematic diagram]
