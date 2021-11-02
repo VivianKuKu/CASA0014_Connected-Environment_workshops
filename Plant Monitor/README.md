@@ -173,7 +173,9 @@
 ```Humidity:``` Great! ( > 50% is good; > 60% is ideal )
 
 ```Moisture:``` (To be experiment, the soil seems too dry for Peace Lily from my hand touch)
-    
+
+* **Reference**
+
     How to make your soil retain more water?- https://plantcareforbeginners.com/articles/how-to-make-your-soil-retain-more-water
 
 <img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="100%"/>
