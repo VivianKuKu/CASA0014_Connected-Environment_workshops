@@ -5,7 +5,7 @@
     
     enjoys moist soil and low-light conditions.
     
-> As fresh as summer breeze!
+> AS FRESH AS SUMMER BREEZE!
 
 ## Peace L
 
@@ -16,6 +16,10 @@
     * To detect the unhappy signs of a plant and remedy it at the early stage.
     
     * To build visualization webpage with the live data from real world.
+
+
+    * Detailed to Peace Lily's characteristics
+
 
 - **Peace Lily**
 
@@ -135,17 +139,6 @@
 
 [2] https://www.instructables.com/Moisture-Detection-With-Two-Nails/
 
-
-
-
-
-## Goals
-
-Detailed to Peace Lily's characteristics
-
-1. ddd
-2. xxx
-3. aaa
 
 
 ## Process
