@@ -214,9 +214,8 @@ https://grafana.com/
 
 * **Add-on other Sensors**
 
-    * How to monitor the color or the morphology of leaf
+    * How to monitor the color or the morphology of leaves
 
 * **User Interaction via Website**
 
-    * 3D digital twin for Peace Lily
-    * [schematic diagram]
+    * 3D digital twin for Peace Lily (maybe by using Three.JS and Point-cloud model)
