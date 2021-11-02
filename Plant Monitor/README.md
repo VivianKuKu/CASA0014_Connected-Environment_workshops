@@ -105,21 +105,23 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     * DHT22
 
 
-    | DHT22             | Description       |
-    | ---------------   | ---------------   |
-    | Humidity Reading           | 0 - 100% humidity             |
-    | Humidity Accuracy         | 2 - 5%              |
-    | Temperature Reading         | -40 to 80°C               |
-    | Temperature Accuracy         | ±0.5°C              |
-    | Sampling Rate         | 0.5Hz (every 2 seconds)            |
+        | DHT22             | Description       |
+        | ---------------   | ---------------   |
+        | Humidity Reading           | 0 - 100% humidity             |
+        | Humidity Accuracy         | 2 - 5%              |
+        | Temperature Reading         | -40 to 80°C               |
+        | Temperature Accuracy         | ±0.5°C              |
+        | Sampling Rate         | 0.5Hz (every 2 seconds)            |
 
     
-    Test and Calibrate
-    https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
+        Test and Calibrate
+        https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
     
     
     * Nail Soil Sensor
-
+    
+        https://www.instructables.com/Moisture-Detection-With-Two-Nails/
+        https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/
 
 **Reference:**
 
