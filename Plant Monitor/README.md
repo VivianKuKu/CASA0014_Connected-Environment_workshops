@@ -81,16 +81,19 @@
 
 - **Feather Huzzah ESP8266 Wifi**
 
-    * The ESP8266 runs on 3.3V power and logic, and unless otherwise specified.
+    * 3.3V regulator with 500mA peak current output
+    * 1 x analog inputs 1.0V max
+    * Pin #0 red LED for general purpose blinking. Pin #2 blue LED for bootloading debug & general purpose blinking
     
-    * The analog pin is also 1.0V max
 
-        https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
+<img src="https://user-images.githubusercontent.com/52306317/139914373-98f6b8ad-0173-46ee-bf11-49e4ad341fd2.png" alt="Cover" width="50%"/>
+
+https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
 
 - **Sensor Information**
 
-    * DHT22
+    * **DHT22**
 
 
         | DHT22             | Description       |
@@ -105,8 +108,11 @@
         Test and Calibrate
         https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html
     
+    <img src="https://user-images.githubusercontent.com/52306317/139915022-c800fd49-852e-4850-b4a7-ac037570f862.png" alt="Cover" width="50%"/>
     
-    * Nail Soil Sensor
+
+
+    * **Nail Soil Sensor**
     
         https://www.instructables.com/Moisture-Detection-With-Two-Nails/
         
