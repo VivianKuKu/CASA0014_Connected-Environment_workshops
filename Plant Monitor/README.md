@@ -1,5 +1,4 @@
-# Plant Minotor
-
+# Plant Minotor :potted_plant::seedling::blossom:
 # Fresh, Green & Air-purifying: Peace Lily
     
     
@@ -7,7 +6,7 @@
     
 > AS FRESH AS SUMMER BREEZE!
 
-## Peace L
+## Peace Lily
 
 - **Why Monitoring?**
 
