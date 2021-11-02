@@ -1,23 +1,21 @@
 # Plant Minotor
 
-# Peace Lily: Fresh, Green & Air-purifying
+# Fresh, Green & Air-purifying: Peace Lily
     
-> As fresh as summer breeze!
-    
-    [icon . logo]
     
     enjoys moist soil and low-light conditions.
- 
+    
+> As fresh as summer breeze!
 
-## Background
+## Peace L
 
 - **Why Monitoring?**
 
     * To keep a plant happy and healthy.
     
-    * To remedy a plant at the early stage when the signs that it is unhappy come up.
+    * To detect the unhappy signs of a plant and remedy it at the early stage.
     
-    * To data insight [TBC]
+    * To build visualization webpage with the live data from real world.
 
 - **Peace Lily**
 
@@ -91,6 +89,14 @@
     <img src="https://user-images.githubusercontent.com/52306317/139914373-98f6b8ad-0173-46ee-bf11-49e4ad341fd2.png" alt="Cover" width="50%"/>
 
     https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
+
+- **Raspberry Pi 4 Computer (Model B 4GB)**
+
+    * 1
+    * 2
+    * 3
+
+    <img src="https://user-images.githubusercontent.com/52306317/139950326-b667463c-cb4c-46c2-a870-b4bf8731cb3d.png" alt="Cover" width="50%"/>
 
 
 - **Sensor Information**
@@ -177,7 +183,7 @@ Detailed to Peace Lily's characteristics
 
 ```Humidity:``` Great! ( > 50% is good; > 60% is ideal )
 
-```Moisture:``` (To be experiment, the soil seems too dry for Peace Lily)
+```Moisture:``` (To be experiment, the soil seems too dry for Peace Lily from my hand touch)
 
 <img src="https://user-images.githubusercontent.com/52306317/139737681-edaf7c36-f0b5-4d22-8b80-97ce727a76e6.png" alt="Cover" width="100%"/>
 
