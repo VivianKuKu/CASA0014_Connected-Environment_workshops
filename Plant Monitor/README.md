@@ -214,6 +214,12 @@ heeheheeheheeheheeheheehe
     
     * Distance between two nails
 
+    * length of nails
+    
+    * depth in soil
+    
+    * type of soil
+
 
 <!-- ## :christmas_tree:  Reference -->
 ## Reference
