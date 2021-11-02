@@ -6,20 +6,8 @@
     [icon . logo]
     
     enjoys moist soil and low-light conditions.
-    
-<!-- ## :closed_book: Table of Content
-markdown: https://ithelp.ithome.com.tw/articles/10203758
-icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
-
-    Table of Content
-    1_
-    2_
-    3_
-    4_
-    5_
- -->
  
-<!-- ## :herb:  Background -->
+
 ## Background
 
 - **Why Monitoring?**
@@ -133,7 +121,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
 
 
 
-<!-- ## :soccer:  Goals -->
+
 ## Goals
 
 Detailed to Peace Lily's characteristics
@@ -142,10 +130,10 @@ Detailed to Peace Lily's characteristics
 2. xxx
 3. aaa
 
-<!-- ## :rocket:  Process -->
+
 ## Process
 
-<img src="https://user-images.githubusercontent.com/52306317/139906286-e6e36bfe-289f-4f25-a535-e207ac6e4b2c.png" alt="Cover" width="90%"/>
+<img src="https://user-images.githubusercontent.com/52306317/139906286-e6e36bfe-289f-4f25-a535-e207ac6e4b2c.png" alt="Cover" width="80%"/>
 
 
 ### 1. Set Up Feather Huzzah ESP8266 Wifi
@@ -202,22 +190,18 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 
 [To be Finished]
 
-**Reference:**
-
-[1] InfluxDB- https://www.influxdata.com/
+https://www.influxdata.com/
 
 
 ### 5. Visualise time series data
 
 [To be Finished]
 
-**Reference:**
-
-[1] Grafana- https://grafana.com/
+https://grafana.com/
 
 
 
-<!-- ## :teddy_bear:  Next Step -->
+
 ## Reflection
 
 * **Experiment & Calibaration for Critical Numbers**
