@@ -230,7 +230,7 @@ https://grafana.com/
 
 * **Add-on other Sensors**
 
-    * abcdefg
+    * How to monitor the color or the morphology of leaf
 
 * **User Interaction via Website**
 
