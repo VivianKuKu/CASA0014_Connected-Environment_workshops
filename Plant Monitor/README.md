@@ -97,7 +97,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     
     * The analog pin is also 1.0V max
 
-    https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
+        https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts
 
 
 - **Sensor Information**
@@ -121,6 +121,7 @@ icon: https://github.com/ikatyang/emoji-cheat-sheet#book-paper
     * Nail Soil Sensor
     
         https://www.instructables.com/Moisture-Detection-With-Two-Nails/
+        
         https://www.instructables.com/DIY-SOIL-MOISTURE-SENSOR-CHEAP-YET-ACCURATE-/
 
 **Reference:**
@@ -207,8 +208,11 @@ heeheheeheheeheheeheheeheheehe
 heeheheeheheeheheeheheehe
 
 <!-- ## :teddy_bear:  Next Step -->
-## Next Step
+## Reflection
 
+* Steel Nail
+    
+    * Distance between two nails
 
 
 <!-- ## :christmas_tree:  Reference -->
