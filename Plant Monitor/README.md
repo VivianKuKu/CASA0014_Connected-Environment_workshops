@@ -200,28 +200,35 @@ https://user-images.githubusercontent.com/52306317/139734037-1826e990-f15e-4771-
 
 
 ### 4. Store data on a RPi gateway
-heeheheeheheeheheeheheeheheehe
 
+[To be Finished]
 
 ### 5. Visualise time series data
 
-heeheheeheheeheheeheheehe
+[To be Finished]
 
 <!-- ## :teddy_bear:  Next Step -->
 ## Reflection
 
-* Steel Nail
-    
-    * Distance between two nails
+* Experiment
 
-    * length of nails
-    
-    * depth in soil
-    
-    * type of soil
+    * Steel Nail
 
-* Environment Reporting Webpage
+        * Distance between two nails
+        * length of nails
+        * depth in soil
+        * type of soil
 
-    * https://github.com/ucl-casa-ce/casa0014/blob/main/plantMonitor/testEnvWeb/testEnvWeb.ino
+    * Environment Reporting Webpage
 
-    * https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
+        * https://github.com/ucl-casa-ce/casa0014/blob/main/plantMonitor/testEnvWeb/testEnvWeb.ino
+        * https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
+
+* Other Sensors
+
+    * abcdefg
+
+* User Interaction
+
+    * 3D digital twin for Peace Lily
+    * [schematic diagram]
