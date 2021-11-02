@@ -225,7 +225,3 @@ heeheheeheheeheheeheheehe
     * https://github.com/ucl-casa-ce/casa0014/blob/main/plantMonitor/testEnvWeb/testEnvWeb.ino
 
     * https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
-
-
-<!-- ## :christmas_tree:  Reference -->
-## Reference
