@@ -152,7 +152,6 @@ void startWifi() {
 }
 ```
 
-[highlight key scripts!]
 
 ### 2. Build a Soil Moisture Sensor
 
