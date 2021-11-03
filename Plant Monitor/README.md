@@ -266,6 +266,8 @@ https://grafana.com/
         * depth in soil
         * type of soil
 
+    * Setup Level 1 - Level 5 to demonstrate the level of moisture
+
     * Environment Reporting Webpage
 
         * https://github.com/ucl-casa-ce/casa0014/blob/main/plantMonitor/testEnvWeb/testEnvWeb.ino
