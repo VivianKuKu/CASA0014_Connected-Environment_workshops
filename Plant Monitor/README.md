@@ -257,7 +257,7 @@ https://grafana.com/
 
 ## Reflection
 
-* **Experiment & Calibaration for Critical Numbers**
+* **Experiment & Calibration for Critical Numbers**
 
     * Steel Nail
 
