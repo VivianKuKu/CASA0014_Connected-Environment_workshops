@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Lily Monitor</title>
+
+    <!--AFrame version 1.2.0-->
+    <!-- The AFrame Hello World scene requires just few HTML lines to run. Behind the scene, it is Three.js doing all the heavy lifting. -->
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <!-- <script src="js/raycast-mouse.js"></script> -->
+
+    <!--Globe Component https://github.com/vasturiano/aframe-globe-component-->
+    <!-- <script src="js/aframe-globe-component.min.js"></script> -->
+
+    <!--Orbit control based on ThreeJs OrbitControls-->
+    <script src="https://cdn.rawgit.com/tizzle/aframe-orbit-controls-component/v0.1.14/dist/aframe-orbit-controls-component.min.js"></script>
+
+    <!--jQueyrt-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    
+    <!--MQTT-->
+    <script type = 'text/javascript' src='https://unpkg.com/mqtt@4.2.1/dist/mqtt.min.js'></script>
+
+
+
+    <style media="screen">
+
+      body, html {
+        font-family: Arial;
+        margin: 0px;
+        padding: 0px;
+      }
+
+      #myEmbeddedScene{
+          margin: 0px;
+          padding: 0px;
+      }
+
+      #dashboard {
+          /* border: 1px solid black; */
+          background-color: rgb(255, 255, 255);
+          /* background-color:rgba(32, 70, 67, 0.8);
+          color: white; */
+          border-radius: 5px;
+          position: absolute;
+          width: 300px;
+          height: 330px;
+          right: 20px;
+          top: 30px;
+          box-shadow:
+          0 0 4px 4px rgb(0, 0, 0,0.05),  /* inner white */
+          0 0 6px 6px rgb(0, 0, 0,0.01); /* middle magenta */
+          padding: 10px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      
+      .title {
+          /* border: 1px solid red; */
+          font-size: 20px;
+          font-weight: 900;
+          /* color: green; */
+          margin-top: 15px;
+          margin-bottom: 15px;
+      }
+
+      .text {
+          font-size: 14px;
+          font-weight: 500;
+          margin-top: 15px;
+          margin-bottom: 35px;
+          line-height: 20px;
+          text-align: justify;
+      }
+
+      #datetime {
+        font-size: 15px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+      
+
+      .msg {
+        /* border: 1px solid blue; */
+        /* display: inline; */
+        font-size: 15px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        /* width: 50%; */
+      }
+
+      #information {
+          /* border: 1px solid black; */
+          /* background-color: rgb(255, 255, 255); */
+          background-color:rgba(32, 70, 67, 0.8);
+          color: white;
+          border-radius: 5px;
+          /* opacity: 0.8; */
+          position: absolute;
+          width: 300px;
+          height: 390px;
+          left: 20px;
+          top: 30px;
+          box-shadow:
+          0 0 4px 4px rgb(0, 0, 0,0.1),  /* inner white */
+          0 0 6px 6px rgb(0, 0, 0,0.05); /* middle magenta */
+          padding: 10px;
+          padding-left: 20px;
+          padding-right: 20px;
+          margin: 0px;
+        }
+
+      .title_2 {
+          /* border: 1px solid red; */
+          font-size: 15px;
+          font-weight: 900;
+          margin-top: 15px;
+          margin-bottom: 15px;
+      }
+
+      .text_2 {
+          font-size: 14px;
+          font-weight: 500;
+          margin-top: 5px;
+          margin-bottom: 10px;
+          line-height: 17px;
+          text-align: justify;
+      }
+
+    </style>
+  
+  </head>
+
+
+
+  <body>
+
+    <div id="myEmbeddedScene">
+      <a-scene cursor="rayOrigin: mouse" raycaster="objects: .collidable">
+        <a-assets>
+          <!-- <a-asset-item id="plant_obj" src="assets/3D Model.obj"></a-asset-item> -->
+          <a-asset-item id="plant_obj" src="assets/dense cloud.obj"></a-asset-item>
+          <a-asset-item id="plant_mtl" src="assets/3D Model.mtl"></a-asset-item>
+          <!-- <a-asset-item id="plant_jpg" src="assets/3D Model_texture.jpg"></a-asset-item> -->
+        </a-assets>
+
+        <a-entity 
+          id = "Plant"
+          obj-model = "obj: #plant_obj; mtl: #plant_mtl; texture: #plant_jpg"
+          scale="10 10 10"
+          position="0 50 0"
+          rotation="-30 0 0">
+        </a-entity>
+        
+        <a-sky color="white"></a-sky>
+        <a-camera fov="80" position="5 10 20"></a-camera>
+        <!-- <a-camera 
+          fov= "80"
+          position="0 -20 0"
+          orbit-controls="
+            target: #Plant;
+            enableDamping: true;
+            dampingFactor: 0.225;
+            rotateSpeed:0.05;
+            autoRotate: false;
+            minDistance:10;
+            maxDistance:35;
+            ">
+        </a-camera> -->
+
+      </a-scene>
+
+      <div id="dashboard">
+        <div id="dashboard_title" class="title">Real-time Monitor</div>
+        <div id="dashboard_text" class="text">The real Peace Lily is currently living at CE Lab, CASA, UCL. This real-time panel is for environmental and plant monitoring. Data will be updated in every minute. (The digital Peace Lily is built by point-cloud modeling.)</div>
+        <div id="datetime"></div>
+        <div id="msg_Temp" class="msg">- Temperature</div>
+        <div id="msg_Humidity" class="msg">- Humidity</div>
+        <div id="msg_Moisture" class="msg">- Solil Moisture</div>
+      </div>
+      <div id="information" class="title">
+        <div id="information_title" class="title">Peace Lily</div>
+        <div id="information_text" class="text">Peace Lily, officially called Spathiphyllum, is well known for its air-purifying abilities as a houseplant.</div>
+        <div id="information_title" class="title_2">Top Tips for Caring for Peace Lily</div>
+        <div id="information_text" class="text_2">- Humidity > 60% </div>
+        <div id="information_text" class="text_2">- Temperature > 18-22 °C </div>
+        <div id="information_text" class="text_2">- Light = Low light area</div>
+        <div id="information_text" class="text_2">- Bloom = Spring & Autumn </div>
+        <div id="information_text" class="text_2">- Watering = Once a week, more during the summer growing season </div>
+        <div id="information_text" class="text_2">- Unhappy Signes = Yellow leaves, reduction in blooms and tips of the leaves turning brown </div>
+      </div>
+  </body>
+
+
+  <script>
+    
+    // Subscibe to MQTT
+
+    var client  = mqtt.connect('mqtt://mqtt.cetools.org:8080')
+
+    var topic_Temp = 'student/CASA0014/plant/ucfncku/temperature';
+    var topic_Humidity = 'student/CASA0014/plant/ucfncku/humidity';
+    var topic_Moisture = 'student/CASA0014/plant/ucfncku/moisture';
+
+    var temperature;
+    var humidity;
+    var moisture;
+
+    
+    client.on('connect', function () {
+        console.log("We are connected to the server.");
+
+        console.log("Subscribing to:" + "\t" + topic_Temp);
+        console.log("Subscribing to:" + "\t" + topic_Humidity);
+        console.log("Subscribing to:" + "\t" + topic_Moisture);
+
+        client.subscribe(topic_Temp);
+        client.subscribe(topic_Humidity);
+        client.subscribe(topic_Moisture);
+
+    })
+    
+    client.on('message', function (topic, message) {
+
+        if (topic === topic_Temp){
+            temperature = message.toString();
+        }
+
+        if (topic === topic_Humidity){
+            humidity = message.toString();
+        }
+
+        if (topic === topic_Moisture){
+            moisture = message.toString();
+        }
+
+        if (temperature && humidity && moisture) {
+
+            console.log("----");
+            console.log("temp: %s", temperature);
+            console.log("----");
+            console.log("humidity: %s", humidity);
+            console.log("----");
+            console.log("moisture: %s", moisture);
+
+            $("#msg_Temp").html("- Temperature: " + "\t" + temperature + "°C");
+            $("#msg_Humidity").html("- Humidity: " + "\t" + humidity + "%");
+            $("#msg_Moisture").html("- Soil Moisture: " + "\t" + moisture);
+
+            //reset to undefined for next time
+            // temperature = undefined;
+            // humidity = undefined;
+            // moisture = undefined;
+        }
+    })
+
+
+
+    // Get Current DayTime
+    
+    function GetDateTime() {
+        
+        var today = new Date();
+        var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+        var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+        var dateTime = date+' '+time;
+
+        console.log(dateTime);
+        $("#datetime").html("Time: " + "\t" + dateTime);
+
+        setTimeout(GetDateTime, 1000);
+    }
+    
+    GetDateTime()
+
+
+  </script>
+
+  
+</html>
