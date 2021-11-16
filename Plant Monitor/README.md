@@ -279,6 +279,10 @@ https://grafana.com/
 
 * **User Interaction via Website**
 
-    * 3D digital twin for Peace Lily (maybe use Three.JS and Point-cloud model)
+    * 3D digital twin for Peace Lily
+        * Taking pictures of Peace Lily
+        * Building up 3D point-cloud model
+        * Collecting data from MQTT server
+        * Using A-Frame, jQuery, javascript and HTML to build up an online monitor
 <img src="https://user-images.githubusercontent.com/52306317/141883072-d3d9b6e5-a65e-4c1d-a583-935fdcc861ec.png" alt="Cover" width="70%"/>
 
