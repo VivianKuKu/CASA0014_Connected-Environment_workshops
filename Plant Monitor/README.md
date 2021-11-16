@@ -280,3 +280,5 @@ https://grafana.com/
 * **User Interaction via Website**
 
     * 3D digital twin for Peace Lily (maybe use Three.JS and Point-cloud model)
+<img src="https://user-images.githubusercontent.com/52306317/141883072-d3d9b6e5-a65e-4c1d-a583-935fdcc861ec.png" alt="Cover" width="70%"/>
+
