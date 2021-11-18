@@ -2,10 +2,9 @@
 #include <ezTime.h>
 //We need to include the ESP8266WiFi library to access code that others have already written that makes it easier for us to connect to the internet.
 
-
-const char* ssid = "CE-Hub";
-const char* password = "()c454,w1f1";
-const char* host = "iot.io";
+const char* ssid = "ssid";
+const char* password = "password";
+const char* host = "host";
 
 Timezone GB;
 
