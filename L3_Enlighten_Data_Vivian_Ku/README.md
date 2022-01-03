@@ -1,5 +1,3 @@
-## L3_Hello Monster Crit
-
 ## EnLighten Data
 
 ### - Purpose
