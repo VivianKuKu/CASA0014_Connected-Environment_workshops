@@ -1,6 +1,3 @@
-## CE_workshops
+## Connected Environment
 
-### [ Enlighten Data ]
-
-### [ Plant Monitor ]
 
